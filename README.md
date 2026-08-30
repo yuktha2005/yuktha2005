@@ -25,6 +25,26 @@ cloud technologies and DevOps.
 
 ---
 
+## 🐍 Snake eating my contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yuktha2005/yuktha2005/main/dist/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yuktha2005/yuktha2005/main/dist/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/yuktha2005/yuktha2005/main/dist/github-snake.svg"
+    />
+  </picture>
+</p>
+
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -214,21 +234,3 @@ Theni, India · 2023–2027
 
 ---
 
-## 🐍 Snake eating my contributions
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/yuktha2005/yuktha2005/main/dist/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/yuktha2005/yuktha2005/main/dist/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/yuktha2005/yuktha2005/main/dist/github-snake.svg"
-    />
-  </picture>
-</p>

@@ -198,26 +198,17 @@ Theni, India · 2023–2027
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuktha2005&show_icons=true&hide_border=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktha2005&layout=compact&hide_border=true&theme=dark" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/yuktha2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-yuktha2005-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yuktha-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-yuktha--s-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yukthaa2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-yukthaa2005-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -227,11 +218,17 @@ Theni, India · 2023–2027
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/yuktha2005/yuktha2005/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/yuktha2005/yuktha2005/output/github-snake.svg">
-    <img alt="github contribution snake"
-         src="https://raw.githubusercontent.com/yuktha2005/yuktha2005/output/github-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yuktha2005/yuktha2005/main/dist/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yuktha2005/yuktha2005/main/dist/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/yuktha2005/yuktha2005/main/dist/github-snake.svg"
+    />
   </picture>
 </p>

@@ -13,6 +13,11 @@ jobs:
       contents: write
 
     steps:
+      # 1. Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Generate the contribution snake
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -21,8 +26,9 @@ jobs:
             dist/github-snake.svg?palette=github-dark
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
+      # 3. Commit the generated files
+      - name: Commit generated files
+        uses: EndBug/add-and-commit@v10
         with:
           message: "Update contribution snake"
           add: "dist/"
